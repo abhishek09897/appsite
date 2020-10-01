@@ -26,4 +26,4 @@ Assuming you're familiar with bower, run the following commands from the root of
     npm install -g vulcanize
     vulcanize index.html --inline
     
-Vulcanize combines your files to reduce the number of network requests and has a number of flags you can tweak based on your preferences. Once vulcanized, it's safe to delete all the folders except the images folder, since the code is all contained in index.html     
+Vulcanize combines your files to reduce the number of network requests and has a number of flags you can tweak based on your preferences. Once vulcanized, it's safe to delete all the folders except the image folder, since the code is all contained in index.html     
